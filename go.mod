@@ -1,4 +1,4 @@
-module github.com/yochitha/google-scraper
+module github.com/yochitha/go-google-scraper
 
 go 1.24.3
 
